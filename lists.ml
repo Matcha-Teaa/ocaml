@@ -48,3 +48,5 @@ let sum lst =
     List.fold_left(fun acc x -> acc+x) 0 lst
 
 
+(* TODO LIST *)
+(* Get sublist from index k to the end of the list*)
