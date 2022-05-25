@@ -1,7 +1,7 @@
 # Ocaml Dump
 
 ## Overview
-There are not many examples of useful Ocaml functions online. This repo contains myraid .. a dump of useful Ocaml functions broken down by type see **Searching for a fuction** below. 
+There are not many examples of useful Ocaml functions online. This repo contains a myraid/dump of useful Ocaml functions broken down by type see **Searching for a fuction** below. 
 
 
 
