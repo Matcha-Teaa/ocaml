@@ -14,4 +14,4 @@ let contains str letter = String.contains str letter
 let fstlet str = 
     if String.length str != 0 then str.[0] else failwith "no letters in string"
 
-
+(* tst *)
