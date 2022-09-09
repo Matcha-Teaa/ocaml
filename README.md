@@ -1,7 +1,7 @@
 # Ocaml Dump
 
 ## Overview
-There are not many examples of useful Ocaml functions online. This repo contains a dump of useful Ocaml functions broken down by type see **Searching for a fuction** below. 
+There are not many examples of useful Ocaml functions online. This repo contains a dump of useful Ocaml functions. To see how the functions are sorted, see **Searching for a fuction** below.
 
 
 
