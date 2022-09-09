@@ -14,5 +14,5 @@ There are not many examples of useful Ocaml functions online. This repo contains
 
 **For Example** if you are looking for a function that takes in a string but returns a list, it will be located in `strings.ml`
 
-All the functions in the repo have comments explaining what they do. 
+All the functions in the repository have comments explaining what they do. 
 It may be useful to use  `Command F` to search for a specific function.
